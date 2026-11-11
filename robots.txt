@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ua2377357-creator.github.io/word-counter/sitemap.xml
